@@ -1,16 +1,8 @@
-# flutter_coding_minds_application
+Teammates:
+Zachary R.
+Khashayar M.
+Subrat T.
+Brian L.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+An application made to help people plan a more sustainable lifestyle with a centralized hub containing important aspects in life
+Application made with the Flutter SDK and the Dart Programming Lanuges. Retrieves and stores user data inside FirebaseDatabase alongside FirebaseAuthentication Services.
